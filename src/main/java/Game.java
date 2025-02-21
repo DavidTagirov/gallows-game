@@ -65,6 +65,10 @@ public class Game {
             } else if ((letter.indexOf(0) == 0)) {
                 System.out.println("You are out of the game.");
                 break;
+            } else if (mistakeLetters.substring(0, mistakeLetters.length()).contains(letter)
+                    || correctLetters.contains(letter)) {
+                System.out.println("You have already entered this letter, try to enter another one.");
+                continue;
             }
 
             if (word.contains(letter)) {
