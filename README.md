@@ -12,4 +12,4 @@
   - Не будет полностью нарисована виселица (**Поражение**)  
 
 ## Пример  
-![image](https://github.com/user-attachments/assets/45f810b6-b87f-498e-be93-46e4a01ef3c0)
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/40d83a3c-0757-4f8d-9c18-672565f9db61" />
